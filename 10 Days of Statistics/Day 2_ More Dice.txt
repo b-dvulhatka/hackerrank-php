@@ -1,0 +1,7 @@
+Resposta: 1/9
+
+Existem 6 possibilidades em cada dado. Em 2 dados, existem 6 * 6 = 36 possibilidades
+
+Existem 4 casos que atendem aos critérios desejados: (1,5) (5,1) (2,4) (4,2)
+
+Isso nos dá uma probabilidade de 4/36 = 1/9

@@ -1,0 +1,20 @@
+Resposta: 17/42
+
+A urna X tem uma probabilidade 4/7 de dar uma bola vermelha.
+
+A urna Y tem probabilidade 5/9 de dar uma bola vermelha.
+
+A urna Z tem uma probabilidade de 1/2 de dar uma bola vermelha.
+
+
+A urna X tem uma probabilidade de 3/7 de dar uma bola preta.
+
+A urna Y tem probabilidade 4/9 de dar uma bola preta.
+
+A urna Z tem uma probabilidade de 1/2 de dar uma bola preta.
+
+P (2 vermelho, 1 preto) = P (Vermelho Vermelho Preto) + P (Vermelho Preto Vermelho) + P (Preto Vermelho Vermelho)
+                  = (4/7) (5/9) (1/2) + (4/7) (4/9) (1/2) + (3/7) (5/9) (1/2)
+                  = 20/126 + 16/126 + 15/126
+                  = 51/126
+                  = 17/42

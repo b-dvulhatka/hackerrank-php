@@ -1,0 +1,9 @@
+Resposta: 5/6
+
+Existem 6 possibilidades em cada dado. Em 2 dados, existem 6 * 6 = 36 possibilidades
+
+Existem 6 casos em que soma> = 10: (4,6), (5,5), (5,6), (6,4), (6,5), (6,6)
+
+Isso nos dá probabilidade (soma> = 10) = 6/36 = 1/6
+
+Isso significa probabilidade (soma <= 9) = 1 - 1/6 = 5/6
