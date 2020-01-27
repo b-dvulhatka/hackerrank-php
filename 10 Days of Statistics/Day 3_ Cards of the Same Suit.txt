@@ -1,0 +1,5 @@
+Resposta: 12/51
+
+Existem 13 de cada naipe em um baralho.
+
+Podemos ver isso como 2 eventos separados. Primeiro, compramos 1 carta e vemos qual é o seu naipe. Seja qual for o naipe, restam 12 do mesmo naipe no baralho de 51 cartas. Portanto, quando compramos a segunda carta, há uma chance de 12/51 de que seja o mesmo naipe.

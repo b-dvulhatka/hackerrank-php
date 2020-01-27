@@ -1,0 +1,29 @@
+Resposta: 1/3
+
+****** 2 respostas válidas: 1/3 ou 1/2
+
+Referência: https://en.wikipedia.org/wiki/Boy_or_Girl_paradox
+
+Esta questão é conhecida como "Paradoxo de meninos ou meninas". A resposta real é 1/3 ou 1/2, dependendo de como a pergunta é interpretada. Aqui estão duas maneiras de interpretar a pergunta:
+
+1) De todas as famílias com dois filhos, pelo menos um dos quais é menino, uma família é escolhida aleatoriamente. Isso daria a resposta de 1/3.
+2) De todas as famílias com dois filhos, uma criança é selecionada aleatoriamente e o sexo dessa criança é especificado como menino. Isso daria uma resposta de 1/2.
+
+
+******* Interpretação (1) dá uma resposta de 1/3
+
+Existem 4 cenários possíveis: (B, B), (B, G), (G, B), (G, G)
+
+Sabemos que 1 criança é um menino, então agora temos 3 cenários: (B, B), (B, G), (G, B)
+
+Quando perguntado, "qual é a probabilidade de os dois filhos serem meninos", o único cenário que combina com isso é: (B, B). Ou seja, apenas 1 dos 3 cenários satisfaz o critério, então há uma chance de 1/3 de ambas as crianças serem meninos.
+
+
+******* Interpretação (2) dá uma resposta de 1/2
+
+Nesse cenário, uma criança foi selecionada aleatoriamente em um conjunto de todas as crianças que têm exatamente 1 irmão. Saber que a criança é menino não nos fornece nenhuma informação sobre se seu irmão é menino ou menina.
+
+
+******* Resposta correta do HackerRank
+
+A resposta aceita no HackerRank é 1/3. Isso está alinhado com o fato de que a redação do problema se assemelha mais à Interpretação (1).

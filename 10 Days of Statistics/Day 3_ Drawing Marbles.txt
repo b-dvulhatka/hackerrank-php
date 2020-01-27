@@ -1,0 +1,7 @@
+Resposta: 2/3
+
+Depois de desenhar o primeiro mármore, ficamos com 2 bolinhas vermelhas e 4 bolinhas azuis. Agora calculamos a probabilidade de desenhar um mármore azul como:
+
+= (número de bolinhas azuis) / (número total de bolinhas)
+= 4 / (2 + 4)
+= 2/3
